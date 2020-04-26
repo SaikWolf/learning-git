@@ -14,7 +14,7 @@ git checkout -b <new_branch>
 Open up this file and add you name below to the user list:
 
 -  SaikWolf
--  Sumanth Nallamotu
+-  Sumanth Nallamotu -
 
 The above should now include previous commiters along with you.
 
