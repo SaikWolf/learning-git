@@ -11,9 +11,10 @@ git checkout -b <new_branch>
 ```
 
 ## Add your first commit
-Open up this file and add you name below to the user list:
+Open up this file and add your name below to the user list:
 
 -  SaikWolf
+-  nickyarn118
 
 The above should now include previous commiters along with you.
 
