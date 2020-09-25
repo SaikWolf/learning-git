@@ -1,3 +1,4 @@
+This was forked as a class assignment
 # learning-git
 This is a simple repo designed for learning git.
 
