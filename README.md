@@ -1,3 +1,4 @@
+This was forked as a class assignment
 # learning-git
 This is a simple repo designed for learning git.
 
@@ -14,6 +15,7 @@ git checkout -b <new_branch>
 Open up this file and add you name below to the user list:
 
 -  SaikWolf
+-  MattGonley
 
 The above should now include previous commiters along with you.
 
